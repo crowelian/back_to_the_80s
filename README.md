@@ -12,6 +12,12 @@ Try to get the best score and rise to the top!
 #### Devlog
 Making the game spanned on 12 days and took 45 hours to do everything.
 
+#### Images
+![dev image 1](https://www.harriahola.com/git_images/backto80s_dev_image_1.jpg)
+![dev image 2](https://www.harriahola.com/git_images/backto80s_dev_image_2.jpg)
+![dev image 3](https://www.harriahola.com/git_images/backto80s_dev_image_3.png)
+
+
 
 
 ### Acknowledgements
