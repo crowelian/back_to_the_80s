@@ -14,8 +14,13 @@ Making the game spanned on 12 days and took 45 hours to do everything.
 
 #### Images
 ![dev image 1](https://www.harriahola.com/git_images/backto80s_dev_image_1.jpg)
+Crude drawing of the game view before development.
+
 ![dev image 2](https://www.harriahola.com/git_images/backto80s_dev_image_2.jpg)
+Game at a stage without post-processing
+
 ![dev image 3](https://www.harriahola.com/git_images/backto80s_dev_image_3.png)
+Game with post-processing
 
 
 
